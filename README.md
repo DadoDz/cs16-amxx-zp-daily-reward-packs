@@ -1,8 +1,5 @@
 # [ZP] Daily Reward Packs
 
-A lightweight activity reward plugin for **Zombie Plague** servers, designed for **Counter-Strike 1.6**.
-The plugin automatically rewards connected players with Ammo Packs every few minutes for staying active on the server.
-
 A simple daily reward system for **Zombie Plague** servers in **Counter-Strike 1.6**.
 Players can claim free Ammo Packs every ```12 hours``` using the ```/get``` command.
 
